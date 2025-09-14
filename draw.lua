@@ -1,5 +1,7 @@
+-- sowwy i pasted ts im gonna make my own drawin lib next upd
+
 local c=game:GetService("CoreGui")local cam=workspace.CurrentCamera
-local g=Instance.new("ScreenGui")g.Name="Drawing | Xeno"g.IgnoreGuiInset=true
+local g=Instance.new("ScreenGui")g.Name="Drawing | Glacier"g.IgnoreGuiInset=true
 g.DisplayOrder=0x7fffffff;g.Parent=c
 local i=0
 local f={[0]=Font.fromEnum(Enum.Font.Roboto),[1]=Font.fromEnum(Enum.Font.Legacy),[2]=Font.fromEnum(Enum.Font.SourceSans),[3]=Font.fromEnum(Enum.Font.RobotoMono)}
